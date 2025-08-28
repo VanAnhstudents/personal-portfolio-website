@@ -69,7 +69,7 @@ export const SKILLS_CATEGORY =
          { name: "AWS", level: 0, color: "bg-yellow-600" },
          { name: "Azure", level: 0, color: "bg-blue-400" },
          { name: "CI/CD", level: 0, color: "bg-green-500" },
-         { name: "Git", level: 60, color: "bg-gray-800" },
+         { name: "Git", level: 60, color: "bg-red-700" },
       ],
    },
 ];
